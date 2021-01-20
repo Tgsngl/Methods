@@ -21,7 +21,9 @@ namespace ValueReferenceTypes
             Console.WriteLine("Hello World!");
         }
     }
+
+
 }
 //int, decimal, float double,bool = değer tip
 //array class, interface = referance tip
-// stock= değer tipler burada gerçekleşir -- heap =
+// stock= değer tipler burada gerçekleşir -- 
